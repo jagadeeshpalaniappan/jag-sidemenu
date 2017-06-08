@@ -446,6 +446,11 @@ input.gsc-search-button {
     padding: 0em 1.2em;
 }
 
+.app-container .content-container .side-menu .navbar-nav li.dropdown ul li a > i {
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
 .app-container .content-container .side-menu .navbar-nav li.dropdown > a:after {
     content: "";
     position: absolute;
