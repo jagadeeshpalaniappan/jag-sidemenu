@@ -1,2 +1,2 @@
-# jhip-sidemenu
+# jag-sidemenu
 Simple Side Menu -using jQuery
