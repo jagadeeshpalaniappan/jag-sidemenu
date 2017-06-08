@@ -110,9 +110,11 @@ header .container .logo-big {
     height: 100%;
     margin: 0 auto;
 }
-header .container .logo-big img{
+
+header .container .logo-big img {
     border-radius: 100%;
 }
+
 header .container .brand {
     font-size: 5em;
     text-transform: capitalize;
