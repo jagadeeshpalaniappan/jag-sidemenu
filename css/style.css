@@ -486,7 +486,7 @@ input.gsc-search-button {
 }
 
 .app-container.expanded .app-footer {
-    left: 300px;
+    left: 260px;
 }
 
 .app-container.expanded .app-footer .wrapper {
@@ -494,11 +494,11 @@ input.gsc-search-button {
 }
 
 .app-container.expanded .content-container .navbar-top {
-    padding-left: 300px;
+    padding-left: 260px;
 }
 
 .app-container.expanded .content-container .side-menu {
-    width: 300px;
+    width: 260px;
     overflow-y: auto;
 }
 
@@ -590,7 +590,7 @@ input.gsc-search-button {
 }
 
 .app-container.expanded .side-body {
-    margin-left: 300px;
+    margin-left: 260px;
 }
 
 .app-container:not(.home) footer {
@@ -648,11 +648,11 @@ input.gsc-search-button {
     }
 
     .app-container .navbar-top {
-        min-width: 300px;
+        min-width: 260px;
     }
 
     .app-container .content-container .side-menu {
-        margin-left: -300px;
+        margin-left: -260px;
         width: 0px;
     }
 
@@ -681,7 +681,7 @@ input.gsc-search-button {
 
     .app-container.expanded .side-menu {
         margin-left: 0px;
-        width: 300px;
+        width: 260px;
     }
 
     .app-container.expanded .side-body {
